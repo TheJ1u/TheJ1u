@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+  <title id="t">Jordan Jenkins</title>
+  <desc id="d">Information Systems student and licensed insurance agent. Business problems, built into working software.</desc>
+  <rect width="1200" height="220" rx="18" fill="#0d1117" stroke="#243049"/>
+  <rect x="0" y="0" width="10" height="220" rx="5" fill="#8ea2ff"/>
+  <text x="56" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2.5" fill="#8ea2ff">INFORMATION SYSTEMS · APPLIED AI · PROVO, UTAH</text>
+  <text x="56" y="132" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#e9edf6">Jordan Jenkins</text>
+  <text x="56" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#a3adc0">Business problems, built into working software.</text>
+</svg>
